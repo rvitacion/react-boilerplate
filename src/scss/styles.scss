@@ -1,0 +1,9 @@
+// Import Bootstrap
+@import "bootstrap/scss/bootstrap.scss";
+
+// Import variables
+@import "./variables/colors.scss";
+@import "./variables/typography.scss";
+
+// Global CSS
+@import "./global.scss";
